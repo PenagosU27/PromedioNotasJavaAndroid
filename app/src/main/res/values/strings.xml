@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Promedio Notas</string>
+    <string name="title">PROMEDIO DE NOTAS</string>
+    <string name="primeranota">Ingrese la nota N° 1</string>
+    <string name="segundanota">Ingrese la nota N° 2</string>
+    <string name="terceranota">Ingrese la nota N° 3</string>
+    <string name="cuartanota">Ingrese la nota N° 4</string>
+    <string name="resultado">Su promedio es:</string>
+    <string name="Calcular">CALCULAR PROMEDIO</string>
+
+
+
+</resources>
